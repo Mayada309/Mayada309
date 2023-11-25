@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayada309
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Git & GitHub
+- 🌱 I’m currently learning React, Git & GitHub
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/mayada-shaaban-25892122a/).
 
