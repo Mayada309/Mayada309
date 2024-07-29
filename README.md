@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayada Shaaban</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
